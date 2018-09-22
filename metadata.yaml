@@ -1,11 +1,16 @@
 _repo: Ylenkatsotuita_55992
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nikkinen, Jaakko
     gutenberg_agent_id: '48585'
     url: http://www.gutenberg.org/2009/agents/48585
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55992#Ylenkatsotuita
 gutenberg_issued: '2017-11-18'
 gutenberg_type: Text
 identifiers:
